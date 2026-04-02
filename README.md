@@ -142,7 +142,7 @@ Most ML algorithms (Linear Regression, Neural Networks) are sensitive to feature
 This project is Phase 1 of a larger engineering roadmap:
 
 ```
-Phase 1 (Apr 2026)  → EduTrack OOP + NumPy        ← YOU ARE HERE
+Phase 1 (Apr 2026)  → EduTrack OOP + NumPy        ← HERE
 Phase 2 (May 2026)  → EduTrack + Pandas EDA
 Phase 3 (Jun 2026)  → EduTrack + Matplotlib/Seaborn visualizations
 Phase 4 (Aug 2026)  → EduTrack + ML predictions (scikit-learn)
